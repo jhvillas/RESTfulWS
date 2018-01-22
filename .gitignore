@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# Swap files
+*.swp
+
+# Eclipse files
+*.project
+*.metadata
+
 # Log file
 *.log
 
